@@ -1,6 +1,8 @@
 Hi! I've spent the last 15 years working as a software engineer (full-stack, primarily backend) and technical lead on projects of all sizes.
 
+<!-- Was true until Fall 2022!
 After a career break as a full-time dad I'm starting to look for work again. Reach out to me on linkedin or at `me at connerpeirce dot com` if you you're looking for collaborators.
+-->
 
 <!--
 **conner/conner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
